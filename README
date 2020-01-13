@@ -1,0 +1,8 @@
+Ke Ma
+112846615
+
+C++ file: This folder contains all the source file.
+memory_report: This file is the memory exmine report. I use valgrind in Linux system.
+Result: This file is the predicted results of 45(30%) tuples randomly selected from the data set using my algorithm. The error predicted results are labeled with arrow.
+data.txt: This file is the intact data set I used from "https://archive.ics.uci.edu/ml/index.php".
+testset.txt: This file contains the 45 test tuples from data.txt.
